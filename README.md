@@ -39,9 +39,9 @@
   <a href="https://github.com/ntaheij/BungeeAuth">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ntaheij&repo=BungeeAuth&title_color=ffffff&text_color=c9cacc&icon_color=00C98A&bg_color=1d1f21" />
   </a>    
-  <a href="https://github.com/ntaheij/codebin">
+<!--   <a href="https://github.com/ntaheij/codebin">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ntaheij&repo=codebin&title_color=ffffff&text_color=c9cacc&icon_color=00C98A&bg_color=1d1f21" />
-  </a> 
+  </a>  -->
     <a href="https://github.com/ntaheij/FolkCraft-Website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ntaheij&repo=FolkCraft-Website&title_color=ffffff&text_color=c9cacc&icon_color=00C98A&bg_color=1d1f21" />
   </a>  
