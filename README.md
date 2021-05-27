@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Header](https://raw.githubusercontent.com/ntaheij/ntaheij/master/Github.png "Header")](https://ntaheij.dev/)
+  [![Header](https://raw.githubusercontent.com/ntaheij/ntaheij/master/BANNER.png "Header")](https://ntaheij.dev/)
   # Hello There <img src="https://raw.githubusercontent.com/ntaheij/ntaheij/master/wave.gif" width="30px">!
   
   My name is Noah. I am currently trying to finish my finals.  </br>
