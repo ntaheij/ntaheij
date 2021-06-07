@@ -20,7 +20,7 @@
   ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=00C98A)
   ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=00C98A)
   ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=00C98A)
-  ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html&logoColor=white&color=00C98A)
+  ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=00C98A)
   ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=00C98A)
   ![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=00C98A)
 
