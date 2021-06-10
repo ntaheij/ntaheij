@@ -1,9 +1,6 @@
 <div align="center">
-  <!-- Header -->
   [![Header](https://raw.githubusercontent.com/ntaheij/ntaheij/master/BANNER.png "Header")](https://ntaheij.dev/)
   # Hello There <img src="https://raw.githubusercontent.com/ntaheij/ntaheij/master/wave.gif" width="30px">!
-  
-  <!-- Info -->
   
   My name is Noah. I am currently trying to finish my finals.  </br>
   I am a Web Developer but I love to challenge myself with a CTF.  </br>
