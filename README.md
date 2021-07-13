@@ -3,7 +3,7 @@
   [![Header](https://raw.githubusercontent.com/ntaheij/ntaheij/master/BANNER.png "Header")](https://ntaheij.dev/)
   # Hello There <img src="https://raw.githubusercontent.com/ntaheij/ntaheij/master/wave.gif" width="30px">!
   
-  My name is Noah. I am currently trying to finish my finals.  </br>
+  My name is Noah. I am currently preparing for my next degree: BSc at the HU University of Applied Sciences.  </br>
   I am a Web Developer but I love to challenge myself with a CTF.  </br>
   If you have any projects for me, do not hesitate to contact me in any way.  </br>
 
