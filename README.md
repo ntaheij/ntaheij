@@ -38,6 +38,8 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ntaheij&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=00C98A&bg_color=1D1F21" alt="NTaheij's WakaTime Stats" />
   </a>
   
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ntaheij&theme=dark&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=27CCDD)](https://git.io/streak-stats)
+   
   ## 🖥️ My Favorite Projects
   
   <a href="https://github.com/ntaheij/chess">
