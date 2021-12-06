@@ -28,7 +28,7 @@
   ## &#x1f4c8; My Statistics
   
   <a href="https://github.com/ntaheij">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntaheij&title_color=ffffff&text_color=c9cacc&icon_color=00C98A&bg_color=1D1F21&langs_count=3&hide=css,less,html,ejs,scss,python" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntaheij&title_color=ffffff&text_color=c9cacc&icon_color=00C98A&bg_color=1D1F21&langs_count=3&hide=css,less,html,ejs,scss,python&exclude_repo=tools" />
   </a>
   <a href="https://github.com/ntaheij">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ntaheij&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=00C98A&bg_color=1D1F21" alt="NTaheij's GitHub Stats" />
