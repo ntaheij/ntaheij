@@ -45,11 +45,11 @@
   <a href="https://github.com/ntaheij/chess">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ntaheij&repo=chess&title_color=ffffff&text_color=c9cacc&icon_color=00C98A&bg_color=1d1f21" />
   </a>    
-  <a href="https://github.com/ntaheij/codebin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ntaheij&repo=codebin&title_color=ffffff&text_color=c9cacc&icon_color=00C98A&bg_color=1d1f21" />
+  <a href="https://github.com/ntaheij/tools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ntaheij&repo=tools&title_color=ffffff&text_color=c9cacc&icon_color=00C98A&bg_color=1d1f21" />
   </a> 
-    <a href="https://github.com/ntaheij/prntsc_scraper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ntaheij&repo=prntsc_scraper&title_color=ffffff&text_color=c9cacc&icon_color=00C98A&bg_color=1d1f21" />
+    <a href="https://github.com/ntaheij/AoC-2021">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ntaheij&repo=AoC-2021&title_color=ffffff&text_color=c9cacc&icon_color=00C98A&bg_color=1d1f21" />
   </a>  
   <a href="https://github.com/ntaheij/Website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ntaheij&repo=Website&title_color=ffffff&text_color=c9cacc&icon_color=00C98A&bg_color=1d1f21" />
