@@ -51,8 +51,8 @@
     <a href="https://github.com/ntaheij/AoC-2021">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ntaheij&repo=AoC-2021&title_color=ffffff&text_color=c9cacc&icon_color=00C98A&bg_color=1d1f21" />
   </a>  
-  <a href="https://github.com/ntaheij/Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ntaheij&repo=Website&title_color=ffffff&text_color=c9cacc&icon_color=00C98A&bg_color=1d1f21" />
+  <a href="https://github.com/ntaheij/tac-compiler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ntaheij&repo=tac-compiler&title_color=ffffff&text_color=c9cacc&icon_color=00C98A&bg_color=1d1f21" />
   </a> 
 </div>
 
