@@ -9,7 +9,7 @@
 
   ## 🔧 Technologies & Tools
   
-  ![](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=00C98A)
+  ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=00C98A)
   ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=00C98A)
   </br>
   ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=00C98A)
@@ -22,6 +22,7 @@
   ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=00C98A)
   ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=00C98A)
   ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=00C98A)
+  ![](https://img.shields.io/badge/Code-Bicep-informational?style=flat&logo=puppet&logoColor=white&color=00C98A)
   ![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=00C98A)
 
 
