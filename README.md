@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/ntaheij/ntaheij/master/banner.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ntaheij/ntaheij/master/banner.svg" width="100%"/>
   
   # Hello There <img src="https://raw.githubusercontent.com/ntaheij/ntaheij/master/wave.gif" width="30px">!
   
