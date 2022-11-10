@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Header](https://raw.githubusercontent.com/ntaheij/ntaheij/master/BANNER.png "Header")](https://ntaheij.dev/)
+  <img src="https://raw.githubusercontent.com/ntaheij/ntaheij/master/banner.png" width="100%"/>
   # Hello There <img src="https://raw.githubusercontent.com/ntaheij/ntaheij/master/wave.gif" width="30px">!
   
   My name is Noah. I am currently preparing for my next degree: BSc at the HU University of Applied Sciences.  </br>
